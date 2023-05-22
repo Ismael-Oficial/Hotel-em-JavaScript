@@ -9,7 +9,7 @@
 
 <div align="center">
   <em>Descrição do Projeto</em>
-  <img width=100% src="https://github.com/Ismael-Oficial/Hotel-em-JavaScript/assets/125465461/7ce1b038-12ac-4d45-a021-0b796646beba">
-  <img width=100% src="https://github.com/Ismael-Oficial/Hotel-em-JavaScript/assets/125465461/ed4c5f5d-35ff-42e0-abf9-fc6528cb5c3f">
+  <img width=100% src="https://github.com/Ismael-Oficial/Hotel-em-JavaScript/assets/125465461/c3186d31-2de9-47ff-999c-05a54b10867e">
+  <img width=100% src="https://github.com/Ismael-Oficial/Hotel-em-JavaScript/assets/125465461/154bcff4-8a81-4769-9040-897c4eec3ed8">
   <em>Veja a atividade completa aqui: https://encurtador.com.br/jwBNP </em>
 </div>
